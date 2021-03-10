@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "arrow2",
+    "texture": "2c1f6061-e879-4da3-b9dd-0495b34c1589",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      116,
+      89
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      124,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

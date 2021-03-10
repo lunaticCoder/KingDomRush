@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "passed_entry_icon",
+    "texture": "cdd42159-9821-4019-a4b3-8f0cd200af6e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      105
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      68,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

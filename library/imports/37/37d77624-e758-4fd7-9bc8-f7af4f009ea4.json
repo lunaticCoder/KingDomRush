@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chengjiu_up",
+    "texture": "6e8901a5-ccc2-49d5-afb0-366df48e70dc",
+    "atlas": "",
+    "rect": [
+      13,
+      6,
+      97,
+      74
+    ],
+    "offset": [
+      -1.5,
+      2
+    ],
+    "originalSize": [
+      126,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "actor1_10",
+    "texture": "e4624aca-8048-47ec-ad12-6c205563afbd",
+    "atlas": "",
+    "rect": [
+      7,
+      2,
+      34,
+      35
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      49,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

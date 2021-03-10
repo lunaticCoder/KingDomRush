@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roadmap_bg",
+    "texture": "e60d97d0-90a7-4041-880f-fb02e13e5c16",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

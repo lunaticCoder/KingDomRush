@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "news_chain",
+    "texture": "13df7e5d-adb9-4b74-8bd9-28467771a46c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      124
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

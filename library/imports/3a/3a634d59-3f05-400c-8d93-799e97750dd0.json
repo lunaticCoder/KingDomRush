@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "puase_down",
+    "texture": "d172a371-9a0c-4353-84b4-42122c562a13",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      33,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      39,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

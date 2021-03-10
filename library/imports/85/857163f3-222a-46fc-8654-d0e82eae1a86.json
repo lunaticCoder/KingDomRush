@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "build_zd_icon",
+    "texture": "adb6506b-5514-45a5-8c07-1701fdd589be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      43
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      46,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

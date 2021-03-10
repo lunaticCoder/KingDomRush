@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "build_fasi_icon",
+    "texture": "6440d12a-dae8-44ed-92a8-2938c67ab9eb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      43
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      46,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

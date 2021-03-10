@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "abount",
+    "texture": "1b00e48b-66ff-452c-aba1-6bfad5835ccf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      700,
+      600
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      700,
+      600
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

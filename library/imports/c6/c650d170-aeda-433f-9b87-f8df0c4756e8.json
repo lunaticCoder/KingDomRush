@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chengjiu_down",
+    "texture": "ee1e37c9-699d-4824-a95c-75c6c0e83e76",
+    "atlas": "",
+    "rect": [
+      8,
+      0,
+      108,
+      85
+    ],
+    "offset": [
+      -1,
+      2.5
+    ],
+    "originalSize": [
+      126,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lifebar_small",
+    "texture": "709f7338-2b39-48d2-bc90-7ac4e7d9cf54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      20,
+      2
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      20,
+      2
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

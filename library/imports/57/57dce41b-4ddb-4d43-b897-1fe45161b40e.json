@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gui_start_button",
+    "texture": "292abc48-7a9e-4f4c-8a04-45969db1d57a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

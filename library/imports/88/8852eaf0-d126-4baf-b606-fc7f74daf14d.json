@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_power",
+    "texture": "21f63fd7-5d50-4aba-ad78-eec8a7a5e49b",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      19,
+      21
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      21
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

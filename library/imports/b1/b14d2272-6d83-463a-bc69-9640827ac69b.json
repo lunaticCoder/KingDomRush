@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "build_bing_icon",
+    "texture": "a29a8ce6-ed00-4e85-a666-450107ea0b10",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      43
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      46,
+      44
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

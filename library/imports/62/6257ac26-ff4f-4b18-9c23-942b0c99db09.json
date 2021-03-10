@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "back_down",
+    "texture": "8e2d435c-c5e1-4cc6-8a4f-7cb8dba1e65e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      59
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      60,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

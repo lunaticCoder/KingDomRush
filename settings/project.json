@@ -1,0 +1,74 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 600,
+  "design-resolution-width": 700,
+  "excluded-modules": [
+    "ParticleSystem",
+    "TiledMap",
+    "Spine Skeleton",
+    "DragonBones",
+    "RichText",
+    "MotionStreak",
+    "Toggle",
+    "VideoPlayer",
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "Bullet",
+    "Enemy",
+    "Soldier"
+  ],
+  "last-module-event-record-time": 1580698198644,
+  "simulator-orientation": true,
+  "simulator-resolution": {
+    "height": 700,
+    "width": 600
+  },
+  "start-scene": "0421ea6a-5b9e-4114-b568-bb4aaded12a3",
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": true,
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

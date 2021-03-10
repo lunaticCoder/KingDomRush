@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "effectOFF",
+    "texture": "fbaeb70d-a091-4014-846a-d165c3c3eaf8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      58
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

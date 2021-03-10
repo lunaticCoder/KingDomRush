@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "undo",
+    "texture": "4c0b62e1-7d5b-4f3b-b7d0-18c920dac9e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      32,
+      31
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skill6_up",
+    "texture": "80146f9b-81b6-4ade-b50d-a755e53b3a89",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      31,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
