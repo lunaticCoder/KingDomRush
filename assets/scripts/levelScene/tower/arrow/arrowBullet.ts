@@ -57,9 +57,9 @@ export default class ArrowBullet extends cc.Component {
     init(attack: number, speed: number, dir: boolean) {
         this.attack = attack;
         if (dir)
-            this.node.rotation = 50;
+            this.node.angle = -50;
         else
-            this.node.rotation = -230;
+            this.node.angle = 230;
 
         //显示
         this.sprite.spriteFrame = this.completedArrow;
@@ -135,7 +135,7 @@ export default class ArrowBullet extends cc.Component {
         let degree: number = this.getDegree(dir);
         if (degree === null)
             return;
-        this.node.rotation = -(this.offsetDegree + degree);
+        this.node.angle = (this.offsetDegree + degree);
 
         if (this.isUpdateDir)
             this.scheduleOnce(this.updateDir.bind(this), 0.07);
