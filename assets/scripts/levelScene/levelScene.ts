@@ -122,7 +122,7 @@ export default class LevelScene extends cc.Component {
     }
 
     private buildScene() {
-        cc.loader.loadRes("levelData/level" + this.levelNum + "/roadData", cc.AnimationClip, function (e, res: any) {
+        cc.resources.load("levelData/level" + this.levelNum + "/roadData", cc.AnimationClip, function (e, res: any) {
             //添加移动路径的动画
             this.animOfVPMap.addClip(res);
             this.levelData = LevelDataManager.getLevelData(this.levelNum);
@@ -137,7 +137,7 @@ export default class LevelScene extends cc.Component {
                 b.init(i);
             }
 
-            cc.loader.loadRes("levelData/level" + this.levelNum + "/map" + this.levelNum, cc.SpriteFrame, function (e, res: any) {
+            cc.resources.load("levelData/level" + this.levelNum + "/map" + this.levelNum, cc.SpriteFrame, function (e, res: any) {
                 //设置地图
                 this.spriteOfMap.spriteFrame = res;
 

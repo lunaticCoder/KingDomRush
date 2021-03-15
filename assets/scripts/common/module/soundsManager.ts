@@ -73,7 +73,7 @@ export default class SoundsManager {
         if (this.isBGMMute)
             return;
 
-        cc.loader.loadRes(url, cc.AudioClip, function (e, clip) {
+        cc.resources.load(url, cc.AudioClip, function (e, clip) {
             cc.audioEngine.playMusic(clip, true);
         }.bind(this))
     }
@@ -86,7 +86,7 @@ export default class SoundsManager {
         if (this.isEffectMute)
             return;
 
-        cc.loader.loadRes(url, cc.AudioClip, function (e, clip) {
+        cc.resources.load(url, cc.AudioClip, function (e, clip:any) {
             cc.audioEngine.playEffect(clip, false);
         })
     }
